@@ -28,3 +28,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+![Screenshot (62)](https://github.com/NaesSnippit/give-it-up-for-number15/assets/120901516/c8564959-84f8-4089-b516-2c73954d5c1e)
+
